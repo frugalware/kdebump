@@ -1,4 +1,4 @@
-# Compiling Time: 10.40 SBU
+# Compiling Time: 25.83 SBU
 # Maintainer: centuri0 <achevaux at gmail dot com>
 
 USE_DETECTDEPENDS=${USE_DETECTDEPENDS:-"n"}
